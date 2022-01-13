@@ -17,7 +17,7 @@
 若有问题，欢迎添加微信沟通交流 zk_0123456789，备注`b站`。
 
 # 直播
-有计划开直播写代码，如果有兴趣，请star本仓库，并issue留言
+有计划开直播写代码，如果有兴趣，请star本仓库，并[issue留言](https://github.com/zackzhangkai/showcase/issues/1)
 
 # 历史分享内容
 

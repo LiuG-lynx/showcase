@@ -6,7 +6,7 @@
 
 - 作者是一个云原生爱好者，基于Istio服务网格开发，也是一个[istio member](https://github.com/istio/community/blob/master/org/members.yaml#L320)。
 
-- 所有视频讲解内容都是源自于真实的开发过程中的积累，会串解很go、k8s或是istio相关的开发技巧。
+- 所有视频讲解内容都是源自于真实的开发过程中的积累，会串解很多go、k8s或是istio相关的开发技巧。
 
 - 所有的内容均是录播于组内的每周分享，会尽量避开公司相关的产品及敏感数据，避免造成不必要的麻烦。
 

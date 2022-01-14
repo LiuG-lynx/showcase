@@ -16,7 +16,7 @@
 
 - [视频讲解过程中记录的文档](https://docs.google.com/document/d/1qRZGDnUTmORMRbtrQRCMSUcItur5-5jjpKZy_bTZIQo/edit)
 
-- 若有问题，欢迎添加微信沟通交流 `zk_0123456789`，备注`b站`，也可以私信我添加`学习群`。
+- 若有问题，欢迎添加微信沟通交流 `zk_0123456789`，备注`b站`，也可以私信我加群。
 - 最后，动动小指头star及b站一键三连。
 
 # 直播

@@ -28,4 +28,4 @@
 - [2022.1.5 kubernetes 源码分享](https://www.bilibili.com/video/BV1wm4y1D7XV/)
 
 
-- [视频讲解过程中记录的文档](https://docs.google.com/document/d/1qRZGDnUTmORMRbtrQRCMSUcItur5-5jjpKZy_bTZIQo/edit)。
+- [视频讲解过程中记录的文档](https://docs.google.com/document/d/1qRZGDnUTmORMRbtrQRCMSUcItur5-5jjpKZy_bTZIQo/edit)

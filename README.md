@@ -4,13 +4,15 @@
 
 # 作者
 
-- 作者是一个云原生爱好者，基于Istio服务网格开发，也是一个[istio member](https://github.com/istio/community/blob/master/org/members.yaml#L320)。
+- 作者是一个云原生爱好者，位于武汉，基于Istio服务网格开发，也是一个[istio member](https://github.com/istio/community/blob/master/org/members.yaml#L320)。
 
 - 所有视频讲解内容都是源自于真实的开发过程中的积累，会串解很多go、k8s或是istio相关的开发技巧。
 
 - 所有的内容均是录播于组内的每周分享，会尽量避开公司相关的产品及敏感数据，避免造成不必要的麻烦。
 
 - 若是为了支持作者更好的讲下去，请支持下作者，[打赏](https://zackzhangkai.github.io/donate/)是一个鼓励。
+
+- 若是录找`云原生开发`相关的工作，可以私信我。
 
 [视频讲解时的文档](https://docs.google.com/document/d/1qRZGDnUTmORMRbtrQRCMSUcItur5-5jjpKZy_bTZIQo/edit)
 

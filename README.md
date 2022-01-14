@@ -12,7 +12,7 @@
 
 - 若是为了支持作者更好的讲下去，请支持下作者，[打赏](https://zackzhangkai.github.io/donate/)是一个鼓励。
 
-- 若是寻找`云原生`相关的工作，可以私信我内推，武汉的职位较多。武汉可内推的大厂：`中国电子云`、`腾讯`（光谷东，非江夏）、`科大讯飞`、`Kubesphere`。
+- 若是寻找`云原生`相关的工作，可以私信我内推，武汉的职位较多。武汉可内推的大厂：`中国电子云`、`腾讯（csig 光谷东，非江夏）`、`科大讯飞`、`Kubesphere`。
 - 
 - [视频讲解过程中记录的文档](https://docs.google.com/document/d/1qRZGDnUTmORMRbtrQRCMSUcItur5-5jjpKZy_bTZIQo/edit)
 

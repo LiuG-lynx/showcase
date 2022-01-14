@@ -14,9 +14,9 @@
 
 - 若是寻找`云原生开发`相关的工作，可以私信我，武汉的职位较多。
 
-[视频讲解时的文档](https://docs.google.com/document/d/1qRZGDnUTmORMRbtrQRCMSUcItur5-5jjpKZy_bTZIQo/edit)
+- [视频讲解过程中记录的文档](https://docs.google.com/document/d/1qRZGDnUTmORMRbtrQRCMSUcItur5-5jjpKZy_bTZIQo/edit)
 
-若有问题，欢迎添加微信沟通交流 zk_0123456789，备注`b站`。
+- 若有问题，欢迎添加微信沟通交流 `zk_0123456789`，备注`b站`。
 
 # 直播
 有计划开直播写代码，如果有兴趣，请star本仓库，并[issue留言](https://github.com/zackzhangkai/showcase/issues/1)

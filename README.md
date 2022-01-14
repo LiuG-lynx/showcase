@@ -19,7 +19,7 @@
 - 最后，动动小指头star及b站一键三连。
 
 # 直播
-有计划开直播写代码，如果有兴趣，并[issue留言](https://github.com/zackzhangkai/showcase/issues/1)
+有计划开直播手动写Kubenetes控制器及CRD代码，如果有兴趣，可以[issue留言](https://github.com/zackzhangkai/showcase/issues/1)
 
 # 历史分享内容
 

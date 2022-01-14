@@ -4,7 +4,7 @@
 
 # 作者
 
-- 作者是一个云原生爱好者，位于武汉，基于Istio服务网格开发，也是一个[istio member](https://github.com/istio/community/blob/master/org/members.yaml#L320)。
+- 作者是一个云原生爱好者，位于武汉，基于Istio服务网格开发，也是一个[istio member](https://github.com/istio/community/blob/master/org/members.yaml#L320) 和 Kubesphere member，曾任kubesphere开发者。
 
 - 所有视频讲解内容都是源自于真实的开发过程中的积累，会串解很多go、k8s或是istio相关的开发技巧。
 

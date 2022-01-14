@@ -12,7 +12,7 @@
 
 - 若是为了支持作者更好的讲下去，请支持下作者，[打赏](https://zackzhangkai.github.io/donate/)是一个鼓励。
 
-- 若是寻找`云原生开发`相关的工作，可以私信我，武汉的职位较多。
+- 若是寻找`云原生`相关的工作，可以私信我，武汉的职位较多。
 
 - [视频讲解过程中记录的文档](https://docs.google.com/document/d/1qRZGDnUTmORMRbtrQRCMSUcItur5-5jjpKZy_bTZIQo/edit)
 

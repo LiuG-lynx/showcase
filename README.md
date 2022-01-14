@@ -13,10 +13,10 @@
 - 若是为了支持作者更好的讲下去，请支持下作者，[打赏](https://zackzhangkai.github.io/donate/)是一个鼓励。
 
 - 若是寻找`云原生`相关的工作，可以私信我内推，武汉的职位较多。武汉可内推的大厂：`中国电子云`、`腾讯（csig 光谷东，非江夏）`、`科大讯飞`、`Kubesphere`。也可直接将简历发到我的邮箱 `zhangkaiamm@gmail.com`。
-- [视频讲解过程中记录的文档](https://docs.google.com/document/d/1qRZGDnUTmORMRbtrQRCMSUcItur5-5jjpKZy_bTZIQo/edit)。
 
 - 若有问题，欢迎添加微信沟通交流 `zk_0123456789`，备注`b站`，也可以私信我加群。
 - 最后，动动小指头star及b站一键三连。
+
 
 # 直播
 有计划开直播手动写Kubenetes控制器及CRD代码，如果有兴趣，可以[issue留言](https://github.com/zackzhangkai/showcase/issues/1)
@@ -26,3 +26,6 @@
 - [2022.1.12 kubernetes operator控制器分享及手动编写crd + controller](https://www.bilibili.com/video/BV1oL411F7hN/)
 - [2022.1.6 kubernetes  三步搞定kubernetes证书过期问题](https://www.bilibili.com/video/BV11u411U7X7/)
 - [2022.1.5 kubernetes 源码分享](https://www.bilibili.com/video/BV1wm4y1D7XV/)
+
+
+[视频讲解过程中记录的文档](https://docs.google.com/document/d/1qRZGDnUTmORMRbtrQRCMSUcItur5-5jjpKZy_bTZIQo/edit)。

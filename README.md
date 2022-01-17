@@ -12,7 +12,7 @@
 
 - 若是为了支持作者更好的讲下去，[可以支持下作者](https://zackzhangkai.github.io/donate/)。
 
-- 若是寻找`云原生`相关的工作，可以私信我内推，武汉的职位较多。武汉可内推的大厂：`中国电子云`、`腾讯（csig 光谷东，非江夏）`、`科大讯飞`、`Kubesphere`。也可直接将简历发到我的邮箱 `zhangkaiamm@gmail.com`。
+- 若是寻找`云原生`相关的工作，可以私信我内推，武汉的职位较多。武汉可内推的大厂：`中国电子云`、`腾讯（csig 光谷东，非江夏）`、`科大讯飞`、`Kubesphere`、`斗鱼`。也可直接将简历发到我的邮箱 `zhangkaiamm@gmail.com`。
 
 - 若有问题，欢迎添加微信沟通交流 `zk_0123456789`，或是[点击扫码](https://github.com/zackzhangkai/showcase/issues/2#issue-1102866663)，备注`b站`，可以私信我加群。
 - 最后，动动小指头star及b站一键三连。

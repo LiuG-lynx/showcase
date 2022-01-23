@@ -27,5 +27,6 @@
 - [2022.1.6 kubernetes  三步搞定kubernetes证书过期问题](https://www.bilibili.com/video/BV11u411U7X7/)
 - [2022.1.5 kubernetes 源码分享](https://www.bilibili.com/video/BV1wm4y1D7XV/)
 
+- [2022.1.21 Kubernetes及Istio官方文档英文高频词汇汇总](https://github.com/zackzhangkai/showcase/blob/master/20220121-%E8%AF%BBKubernetes%E5%8F%8AIstio%E5%B8%B8%E8%A7%81%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E6%B1%87%E6%80%BB/%E5%B8%B8%E8%A7%81%E5%8D%95%E8%AF%8D.md)
 
 - [视频讲解过程中记录的文档](https://docs.google.com/document/d/1qRZGDnUTmORMRbtrQRCMSUcItur5-5jjpKZy_bTZIQo/edit)
